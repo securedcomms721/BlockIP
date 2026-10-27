@@ -29,7 +29,7 @@
 2607:f8b0:4864:32::7
 2607:f8b0:4864:32::9
 79.135.106.102
-# Malicious Traffic(ASEAN-Cebu)
+# Malicious Traffic (ASEAN-Cebu)
 114.114.114.114
 37.120.193.123
 204.76.203.208
