@@ -43,3 +43,7 @@
 # November 4, 2026_for blocking (Engr JP)
 130.94.51.78
 38.54.86.117
+# Japan_Nov 4_2026_website
+172.233.71.126
+# Japan 
+154.213.177.123
