@@ -30,3 +30,7 @@ sharepoint-*.pages.dev
 *.workers.dev
 # C2 Server
 kentscaffolders.com
+# SEASONALINVITE PHISHING CAMPAIGN ABUSES RMM TOOLS
+westseattlehc.screenconnect.com
+pub-80959acc7e1349d797b303af25aad569.r2.dev/LogMeInResolve_Unattended.msi
+drleic.toplanero.vu
