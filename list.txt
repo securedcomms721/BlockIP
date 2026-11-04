@@ -99,3 +99,16 @@
 47.76.254.82
 # SEASONALINVITE PHISHING CAMPAIGN ABUSES RMM TOOLS
 64.34.84.93
+# Spot Notification Report by Palo Alto Networks Unit 42
+198.135.184.22 
+38.60.227.121
+72.30.32.33
+# IOCs to block October 3:
+166.88.99.37
+2a09:bac5:3983:e6::17:26b
+2a09:bac5:3982:2e1e::498:41
+2a09:bac5:3984:263c::3cf:19
+2a09:bac5:3983:e6::17:26b
+2a09:bac5:3982:2e1e::498:41
+2a09:bac5:3984:263c::3cf:19
+47.76.254.82
