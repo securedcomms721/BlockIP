@@ -28,3 +28,5 @@ walter-software.com
 *.hostlab.net.tr
 sharepoint-*.pages.dev
 *.workers.dev
+# C2 Server
+kentscaffolders.com
