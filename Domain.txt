@@ -21,3 +21,10 @@ nikadent.icupohlusa.co
 stpaulscathedralokc.org
 trulites.com
 walter-software.com
+*.duemineral.uk
+*.loadingdocuments.uk
+*.sharepoint-msviewer.com
+*.userfriendlyinterface.de
+*.hostlab.net.tr
+sharepoint-*.pages.dev
+*.workers.dev
