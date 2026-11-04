@@ -34,3 +34,7 @@ kentscaffolders.com
 westseattlehc.screenconnect.com
 pub-80959acc7e1349d797b303af25aad569.r2.dev/LogMeInResolve_Unattended.msi
 drleic.toplanero.vu
+# Spot Notification Report by Palo Alto Networks Unit 42
+kentscaffolders.com
+www.kentscaffolders.com
+
