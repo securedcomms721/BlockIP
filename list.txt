@@ -40,3 +40,6 @@
 172.125.240.252
 # Talking Points for China.zip
 61.4.102.75
+# November 4, 2026_for blocking (Engr JP)
+130.94.51.78
+38.54.86.117
