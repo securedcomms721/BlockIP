@@ -984,3 +984,6 @@
 69.5.169.197/32
 # Netherlands Techoff - November 6, 2026
 195.178.110.137
+# Lightnode IP
+130.94.42.226
+130.94.68.216
